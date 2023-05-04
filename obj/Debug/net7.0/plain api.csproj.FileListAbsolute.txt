@@ -1,0 +1,47 @@
+/Users/jahansumiarta/Desktop/plain api/bin/Debug/net7.0/appsettings.Development.json
+/Users/jahansumiarta/Desktop/plain api/bin/Debug/net7.0/appsettings.json
+/Users/jahansumiarta/Desktop/plain api/bin/Debug/net7.0/Frontend/nba-app/OfficialPlayerData.json
+/Users/jahansumiarta/Desktop/plain api/bin/Debug/net7.0/Frontend/nba-app/package-lock.json
+/Users/jahansumiarta/Desktop/plain api/bin/Debug/net7.0/Frontend/nba-app/package.json
+/Users/jahansumiarta/Desktop/plain api/bin/Debug/net7.0/plain api
+/Users/jahansumiarta/Desktop/plain api/bin/Debug/net7.0/plain api.deps.json
+/Users/jahansumiarta/Desktop/plain api/bin/Debug/net7.0/plain api.runtimeconfig.json
+/Users/jahansumiarta/Desktop/plain api/bin/Debug/net7.0/plain api.dll
+/Users/jahansumiarta/Desktop/plain api/bin/Debug/net7.0/plain api.pdb
+/Users/jahansumiarta/Desktop/plain api/bin/Debug/net7.0/Humanizer.dll
+/Users/jahansumiarta/Desktop/plain api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/jahansumiarta/Desktop/plain api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/jahansumiarta/Desktop/plain api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/jahansumiarta/Desktop/plain api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/jahansumiarta/Desktop/plain api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/jahansumiarta/Desktop/plain api/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/jahansumiarta/Desktop/plain api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/jahansumiarta/Desktop/plain api/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/jahansumiarta/Desktop/plain api/bin/Debug/net7.0/Npgsql.dll
+/Users/jahansumiarta/Desktop/plain api/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/jahansumiarta/Desktop/plain api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/jahansumiarta/Desktop/plain api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/jahansumiarta/Desktop/plain api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/jahansumiarta/Desktop/plain api/bin/Debug/net7.0/System.CodeDom.dll
+/Users/jahansumiarta/Desktop/plain api/obj/Debug/net7.0/plain api.csproj.AssemblyReference.cache
+/Users/jahansumiarta/Desktop/plain api/obj/Debug/net7.0/plain api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jahansumiarta/Desktop/plain api/obj/Debug/net7.0/plain api.AssemblyInfoInputs.cache
+/Users/jahansumiarta/Desktop/plain api/obj/Debug/net7.0/plain api.AssemblyInfo.cs
+/Users/jahansumiarta/Desktop/plain api/obj/Debug/net7.0/plain api.csproj.CoreCompileInputs.cache
+/Users/jahansumiarta/Desktop/plain api/obj/Debug/net7.0/plain api.MvcApplicationPartsAssemblyInfo.cs
+/Users/jahansumiarta/Desktop/plain api/obj/Debug/net7.0/plain api.MvcApplicationPartsAssemblyInfo.cache
+/Users/jahansumiarta/Desktop/plain api/obj/Debug/net7.0/staticwebassets/msbuild.plain api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jahansumiarta/Desktop/plain api/obj/Debug/net7.0/staticwebassets/msbuild.build.plain api.props
+/Users/jahansumiarta/Desktop/plain api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.plain api.props
+/Users/jahansumiarta/Desktop/plain api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.plain api.props
+/Users/jahansumiarta/Desktop/plain api/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/jahansumiarta/Desktop/plain api/obj/Debug/net7.0/staticwebassets.build.json
+/Users/jahansumiarta/Desktop/plain api/obj/Debug/net7.0/staticwebassets.development.json
+/Users/jahansumiarta/Desktop/plain api/obj/Debug/net7.0/scopedcss/bundle/plain api.styles.css
+/Users/jahansumiarta/Desktop/plain api/obj/Debug/net7.0/plain api.csproj.CopyComplete
+/Users/jahansumiarta/Desktop/plain api/obj/Debug/net7.0/plain api.dll
+/Users/jahansumiarta/Desktop/plain api/obj/Debug/net7.0/refint/plain api.dll
+/Users/jahansumiarta/Desktop/plain api/obj/Debug/net7.0/plain api.pdb
+/Users/jahansumiarta/Desktop/plain api/obj/Debug/net7.0/plain api.genruntimeconfig.cache
+/Users/jahansumiarta/Desktop/plain api/obj/Debug/net7.0/ref/plain api.dll
+/Users/jahansumiarta/Desktop/plain api/bin/Debug/net7.0/Frontend/nba-app/nba_teams.json

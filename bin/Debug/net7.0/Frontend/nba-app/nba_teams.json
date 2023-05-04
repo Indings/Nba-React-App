@@ -1,0 +1,212 @@
+[
+    {
+      "teamname": "Atlanta Hawks",
+      "colormain":"#e03a3e",
+      "coloroff":"#c1d32f",
+      "coloraccent":"#242424",
+      "teamID": "1610612737"      
+    },
+    {
+      "teamname": "Boston Celtics",
+      "colormain":"#008348",
+      "coloroff":"#000000",
+      "coloraccent":"rgba(255, 255, 255, 0.87)",
+      "teamID": "1610612738"    
+    },
+    {
+      "teamname": "Brooklyn Nets",
+      "colormain":"#2d2925",
+      "coloroff":"#000000",
+      "coloraccent":"rgba(255, 255, 255, 0.87)",
+      "teamID": "1610612751"    
+    },
+    {
+      "teamname": "Charlotte Hornets",
+      "colormain":"#00788c",
+      "coloroff":"#1d1160",
+      "coloraccent":"rgba(255, 255, 255, 0.87)",
+      "teamID": "1610612766" 
+    },
+    {
+      "teamname": "Chicago Bulls",
+      "colormain":"#ce1141",
+      "coloroff":"#000000",
+      "coloraccent":"rgba(255, 255, 255, 0.87)",
+      "teamID": "1610612741" 
+    },
+    {
+      "teamname": "Cleveland Cavaliers",
+      "colormain":"#6f263d",
+      "coloroff":"#ffb81c",
+      "coloraccent":"#242424",
+      "teamID": "1610612739" 
+    },
+    {
+      "teamname": "Dallas Mavericks",
+      "colormain":"#0053bc",
+      "coloroff":"#00285e",
+      "coloraccent":"rgba(255, 255, 255, 0.87)",
+      "teamID": "1610612742"
+    },
+    {
+      "teamname": "Denver Nuggets",
+      "colormain":"#0e2240",
+      "coloroff":"#fec524",
+      "coloraccent":"#242424",
+      "teamID": "1610612743"
+    },
+    {
+      "teamname": "Detroit Pistons",
+      "colormain":"#1d428a",
+      "coloroff":"#c8102e",
+      "coloraccent":"rgba(255, 255, 255, 0.87)",
+      "teamID": "1610612765"
+    },
+    {
+      "teamname": "Golden State Warriors",
+      "colormain":"#006bb6",
+      "coloroff":"#fdb927",
+      "coloraccent":"#242424",
+      "teamID": "1610612744"
+    },
+    {
+      "teamname": "Houston Rockets",
+      "colormain":"#ce1141",
+      "coloroff":"#c4ced4",
+      "coloraccent":"#242424",
+      "teamID": "1610612745"
+    },
+    {
+      "teamname": "Indiana Pacers",
+      "colormain":"#002d62",
+      "coloroff":"#fdbb30",
+      "coloraccent":"#242424",
+      "teamID": "1610612754"
+    },
+    {
+      "teamname": "LA Clippers",
+      "colormain":"#c8102e",
+      "coloroff":"#1d428a",
+      "coloraccent":"rgba(255, 255, 255, 0.87)",
+      "teamID": "1610612746"
+    },
+    {
+      "teamname": "Los Angeles Lakers",
+      "colormain":"#fdb927",
+      "coloroff":"#552583",
+      "coloraccent":"rgba(255, 255, 255, 0.87)",
+      "teamID": "1610612747"
+    },
+    {
+      "teamname": "Memphis Grizzlies",
+      "colormain":"#5d76a9",
+      "coloroff":"#12173f",
+      "coloraccent":"rgba(255, 255, 255, 0.87)",
+      "teamID": "1610612763"
+    },
+    {
+      "teamname": "Miami Heat",
+      "colormain":"#000000",
+      "coloroff":"#98002e",
+      "coloraccent":"rgba(255, 255, 255, 0.87)",
+      "teamID": "1610612748"
+    },
+    {
+      "teamname": "Milwaukee Bucks",
+      "colormain":"#00471b",
+      "coloroff":"#eee1c6",
+      "coloraccent":"#242424",
+      "teamID": "1610612749"
+    },
+    {
+      "teamname": "Minnesota Timberwolves",
+      "colormain":"#0c2340",
+      "coloroff":"#236192",
+      "coloraccent":"rgba(255, 255, 255, 0.87)",
+      "teamID": "1610612750"
+    },
+    {
+      "teamname": "New Orleans Pelicans",
+      "colormain":"#002b5c",
+      "coloroff":"#b4975a",
+      "coloraccent":"rgba(255, 255, 255, 0.87)",
+      "teamID": "1610612740"
+    },
+    {
+      "teamname": "New York Knicks",
+      "colormain":"#006bb6",
+      "coloroff":"#f58426",
+      "coloraccent":"rgba(255, 255, 255, 0.87)",
+      "teamID": "1610612752"
+    },
+    {
+      "teamname": "Oklahoma City Thunder",
+      "colormain":"#007ac1",
+      "coloroff":"#002d62",
+      "coloraccent":"rgba(255, 255, 255, 0.87)",
+      "teamID": "1610612760"
+    },
+    {
+      "teamname": "Orlando Magic",
+      "colormain":"#0077c0",
+      "coloroff":"#000000",
+      "coloraccent":"rgba(255, 255, 255, 0.87)",
+      "teamID": "1610612753"
+    },
+    {
+      "teamname": "Philadelphia 76ers",
+      "colormain":"#006bb6",
+      "coloroff":"#ed174c",
+      "coloraccent":"rgba(255, 255, 255, 0.87)",
+      "teamID": "1610612755"
+    },
+    {
+      "teamname": "Phoenix Suns",
+      "colormain":"#1d1160",
+      "coloroff":"#e56020",
+      "coloraccent":"rgba(255, 255, 255, 0.87)",
+      "teamID": "1610612756"
+    },
+    {
+      "teamname": "Portland Trail Blazers",
+      "colormain":"#000000",
+      "coloroff":"#e03a3e",
+      "coloraccent":"#242424" ,
+      "teamID": "1610612757"
+    },
+    {
+      "teamname": "Sacramento Kings",
+      "colormain":"#5a2b81",
+      "coloroff":"#000000",
+      "coloraccent":"rgba(255, 255, 255, 0.87)",
+      "teamID": "1610612758"
+    },
+    {
+      "teamname": "San Antonio Spurs",
+      "colormain":"#000000",
+      "coloroff":"#c4ced4",
+      "coloraccent":"#242424",
+      "teamID": "1610612759"
+    },
+    {
+      "teamname": "Toronto Raptors",
+      "colormain":"#000000",
+      "coloroff":"#ce1141",
+      "coloraccent":"#242424",
+      "teamID": "1610612761"
+    },
+    {
+      "teamname": "Utah Jazz",
+      "colormain":"#002b5c",
+      "coloroff":"#00471b",
+      "coloraccent":"rgba(255, 255, 255, 0.87)",
+      "teamID": "1610612762"
+    },
+    {
+      "teamname": "Washington Wizards",
+      "colormain":"#002b5c",
+      "coloroff":"#e31837",
+      "coloraccent":"rgba(255, 255, 255, 0.87)",
+      "teamID": "1610612764"
+    }
+  ]
