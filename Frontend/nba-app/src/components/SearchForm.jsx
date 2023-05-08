@@ -1,8 +1,9 @@
 import React from 'react'
-import {useEffect} from 'react'
+import {useEffect,useRef} from 'react'
 export const SearchForm = ({search, setSearch,searchPlayer,setYear}) => {
 
     //allows for search after pressing enter
+    const firstRender = useRef(0)
     function handleKeyPress(e){
         if(e.key === "Enter"){
             searchPlayer(search)
@@ -11,20 +12,23 @@ export const SearchForm = ({search, setSearch,searchPlayer,setYear}) => {
     }
     
     useEffect (() =>{
-        var month = new Date().getMonth()
-        var max = new Date().getFullYear()
-        //account for nba season starting in early september
-        if(!(month == 8 || month == 9 || month == 10 || month == 11 || month == 12)){
-            max -= 1
-        }
-        var min = 1946
-        var select = document.getElementById('dropdownYear')
+        if(firstRender.current == 0){
+            var month = new Date().getMonth()
+            var max = new Date().getFullYear()
+            //account for nba season starting in early september
+            if(!(month == 8 || month == 9 || month == 10 || month == 11 || month == 12)){
+                max -= 1
+            }
+            var min = 1946
+            var select = document.getElementById('dropdownYear')
 
-        for (var i = max; i >= min; i--) {
-            var opt = document.createElement('option');
-            opt.value = i;
-            opt.innerHTML = i;
-            select.appendChild(opt);
+            for (var i = max; i >= min; i--) {
+                var opt = document.createElement('option');
+                opt.value = i;
+                opt.innerHTML = i;
+                select.appendChild(opt);
+            }
+            firstRender.current++
         }
     },[]) 
 

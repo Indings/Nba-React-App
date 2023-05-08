@@ -4,10 +4,13 @@ import {SearchForm} from './SearchForm'
 
 export const PlayerBanner = ({displayComponents, teamLogoUrl,playerInfo, player,search,setSearch,searchPlayer,setYear}) =>{
 const [bannerClass,setBannerClass] = useState("playerBanner")
+const [gridItemClass,setGridItemClass] = useState("grid-item")
 useEffect( () => {
 
   if(displayComponents.current !== 0){
+
     setBannerClass("playerBannerWithComponents")
+    setGridItemClass("grid-item3")
   }
 })
 
@@ -29,7 +32,7 @@ return(
       </>
     }
 
-    <div className="grid-item">
+    <div className={gridItemClass}>
       
         {displayComponents.current == 0 &&
         <div className="titleContainer">
